@@ -12,6 +12,13 @@
 </head>
 <body>
 <main id="app">
+<select name="carburante" id="carburante" v-model="textSearch"  @change="changeAuto(textSearch)">
+        <option value="all">all</option>
+        <option value="benzina">benzina</option>
+        <option value="diesel">diesel</option>
+        <option value="ibrida">ibrida</option>
+</select>
+
 <div class="row mt-5">
         <div class="col-4 mb-5" v-for="car in cars">
             <img v-bind:src="car.foto" alt="">

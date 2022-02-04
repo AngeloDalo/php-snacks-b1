@@ -71,7 +71,7 @@ $cars = [
         'peso' => 1678,
         'patente' => 'B',
         'foto' => 'https://cdnwp.dealerk.com/d4748478/uploads/sites/26/2021/04/jag_f-type_22my_p300_r-dynamic_black_convertible_exterior-e1618913956453.jpg',
-        'carburante' => 'benzia'
+        'carburante' => 'benzina'
     ],
     [
         'id_auto' => 5,
@@ -89,7 +89,7 @@ $cars = [
         'peso' => 1930,
         'patente' => 'B',
         'foto' => 'https://immagini.alvolante.it/sites/default/files/styles/anteprima_lunghezza_640_jpg/public/serie_auto_galleria/2016/02/vw_tiguan_top_ant.png?itok=qiBGGxC3',
-        'carburante' => 'Ibrida'
+        'carburante' => 'ibrida'
     ],
     [
         'id_auto' => 6,
@@ -107,7 +107,7 @@ $cars = [
         'peso' => 1876,
         'patente' => 'B',
         'foto' => 'https://cdn.group.renault.com/ren/it/promozioni/gennaio/captur-hybrid.jpg.ximg.xsmall.jpg/154f18b563.jpg',
-        'carburante' => 'benzina'
+        'carburante' => 'diesel'
     ],
     [
         'id_auto' => 7,
@@ -125,7 +125,7 @@ $cars = [
         'peso' => 1876,
         'patente' => 'B',
         'foto' => 'https://cdn.motor1.com/images/mgl/8AnpX3/s3/2022-skoda-karoq-style.jpg',
-        'carburante' => 'benzina'
+        'carburante' => 'diesel'
     ],
     [
         'id_auto' => 8,
