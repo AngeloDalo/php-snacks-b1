@@ -1,0 +1,12 @@
+.col-4 img {
+    width: 100%;
+}
+
+.text {
+    padding: 0.5em;
+    background-color: rgb(230, 230, 184);
+}
+
+.text span {
+    display: block;
+}
